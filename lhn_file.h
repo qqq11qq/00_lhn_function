@@ -1,9 +1,7 @@
-#pragma once
-
-#include "stdafx.h"
-
 #include <stdlib.h>
 #include <stdio.h>
+
+#pragma once
 
 class lhn_file
 {
