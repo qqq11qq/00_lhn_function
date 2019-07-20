@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "lhn_file.h"
 
 lhn_file::lhn_file()
